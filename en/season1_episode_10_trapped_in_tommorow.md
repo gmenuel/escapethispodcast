@@ -24,7 +24,7 @@ Yes, most of the stuff in here is a bit outdated and gimmicky. But there must be
 
 You think about it as the travelator conveys you towards the exit, when suddenly, the whole thing jerks to a halt. You almost lose your footing. Once you&#39;ve stabilised yourself, you roll your eyes – well, at least it waited until you were finished to break down! Guess you have to use your _feet_ to get to the door. You walk up to it... but it doesn&#39;t open. You try the other door, the entrance one; again, it doesn&#39;t open. Well, this is frustrating. You glance up at the security cameras – five of them, interspersed along the ceiling between exhibits – and give them an urgent wave, trying to get a staff member&#39;s attention, but after several minutes nobody has come to your aid.
 
-Look, in all likelihood, some janitor somewhere will come in here and find you. But you have no idea how long that will take. And this exhibit _is_ being shut down, demolished tomorrow... maybe there aren&#39;t any janitors working here anymore. You should probably find a way to get those doors working yourself – it may be the only way to 100% guarantee your safety!
+Look, in all likelihood, some janitor somewhere will come in here and find you. But you have no idea how long that will take. And this exhibit is being shut down, demolished tomorrow... maybe there aren't any janitors working here anymore. You should probably find a way to get those doors working yourself – it may be the only way to 100% guarantee your safety!
 
 # OBSERVABLE ITEMS
 
