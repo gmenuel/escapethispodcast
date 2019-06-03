@@ -1,4 +1,4 @@
-The Future
+L'avenir
 
 Notes
 
@@ -62,7 +62,7 @@ Fusée : Elle est extrêmement grande et couverte de lumières qui semblent sort
 
 Lunettes "intelligentes" : elles ne révolutionnent pas le monde, mais elles sont plus cools que des lunettes normales. Une partie de la monture comporte deux minuscules boutons - l'un d'eux modifie la teinte de la couleur sur le verre afin que vous puissiez vous coordonner avec n'importe quelle tenue, l'autre permet d'ajuster les lunettes au visage de la personne qui les porte.
 
-Sports: This exhibit's pretty cool – the theme of it is essentially sports without needing all that expensive equipment; there are models of kids in sports uniforms, holding out their arms as if handling baseball bats, but the bats themselves are not physically there – they're holograms! In fact, apart from the people, everything about the baseball field is a hologram. Bases, ball, a big scoreboard... it's all very impressive.
+Sports: Cette exposition est plutôt cool - son thème est essentiellement sportif sans avoir besoin de tout cet équipement coûteux; il y a des modèles d'enfants en uniformes de sport, qui tiennent les bras comme s'ils manipulaient des bâtons de baseball, mais ces derniers ne sont pas physiquement présents: ce sont des hologrammes! En fait, mis à part le peuple, tout ce qui concerne le terrain de baseball est un hologramme. Des bases, un ballon, un grand tableau d’affichage ... c’est très impressionnant.
 
 Téléphone: Il s'agit d'une représentation fidèle d'un téléphone du style du XIXe siècle, mais il quelques indices subtils indiquent qu'il est loin d'être authentique. Principalement, il y a un câble partant du bas vers le générateur d'électricité de l'autre côté de l'exposition. Vous décrochez le combiné et le tenez à votre oreille mais vous n'entendez rien.
 
@@ -73,8 +73,8 @@ Jardin: L'élément principal du jardin du futur est un long dispositif qui semb
 Lit - fouiller dessous: dessous, vous apercevez un morceau de papier plié, délibérément jeté. Vous le récupérez et vous le lisez:
 
 > Chers professeurs Morgan et Karlsen, Nous vous remercions de nous avoir donné l’opportunité d'analyser votre conception. Malheureusement, je ne suis pas en mesure de vous offrir un financement car je reste assez secptique quant à certains aspects de votre travail. En imaginant qu'une telle invention soit possible - ce dont je doute déjà beaucoup -, elle est extrêmement dangereuse. Pour cette raison, je ne peux pas en toute conscience vous donner mon soutien. Peut-être que si vos tentatives de conception ultérieures incluent une isolation appropriée, je pourrais revoir ma décision. Je regrette que nous ne puissions pas travailler ensemble,
-> Sincerely,
-> Doctor Lester Leonidas.
+> Cordialement,
+> Docteur Lester Leonidas.
 
 Ordinateur - insertion de la puce de connaissance en forme de M à l'envers dans la fente en forme de W: elle s'intègre parfaitement et des mots apparaissent à l'écran. Il y a deux options qui semblent sélectionnables : l'une dit simplement "Générateur - on / off". Elle est actuellement sur 'off' '. L'autre dit, "Vidéos de la caméra".
 
@@ -92,7 +92,7 @@ Long câble - en l'entourant avec la laine de l'écharpe abîmée du dressing: �
 
 Long câble – une fois que vous l'avez isolé avec la laine, entourer le robot le lanceur de jouet pour chien, la caméra 4 et la chasse d'eau : le câble est *juste* assez long pour faire le tour de toutes ces choses, et dès qu'il est mis correctement... il se met à bouger. Comme s'il était sur un mini tapis roulant. Est-ce qu'il bouge de lui même ? Comme une machine à mouvement perpétuel ? Parce que c'est *plutôt* le genre de chose qui rendrait ses inventeurs riches, renommés, et puissants.
 
-You return to the maintenance area to satisfy your curiosity.
+Vous retournez dans la zone de maintenance pour satisfaire votre curiosité.
 
 L'ampoule qui est posé dans son bloc de plastique est allumé. La mouvement du câble est produit d'une manière ou d'une autre suffisamment d'énergie pour l'allumer. Vous ne comprenez pas comment - enfin personne ne comprends vraiment comment c'est possible - mais les deux professeurs qui ont conçus l'exposition ont créé une machine à mouvement perpétuel qui fonctionne. Et l'exposition *est* la machine. Il ne faut surtout pas détruire cet endroit. Vous l'avez fait ! Vous avez sauvé l'exposition ! Enfin, si vous arrivez à sortir d'ici.
 
