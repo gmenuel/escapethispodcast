@@ -4,7 +4,7 @@ Notes
 
 Pas de règles spéciales ici! Ne cassez rien. Sauf si quelque chose vous indique que vous devez faire du cassage organisé.
 
-# Introduction
+# Introduction
 
 C'est un jour tragique pour votre petite ville pittoresque. Votre attraction d'enfance préférée, l'exposition La Terre du Future, est en train d'être démolie. OK, il s'agit juste d'une seule salle d'exposition remplie de lumières clignotantes, de robots minables et d'inventions qui semblaient cools et futuristes dans les années 80, mais vous adoriez ça, et ça vous déprime qu'ils la détruisent. La veille du jour prévu pour la destruction, vous les appelez pour savoir si vous pourriez faire un dernier tour privé de l'attraction, pour lui dire au revoir.
 
